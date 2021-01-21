@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+output/
+weights*/
+model_checkpoint/
+matmih/
+data/
+MOROCO/
+best_model*
+*.bin
+
+
 # C extensions
 *.so
 
